@@ -1,7 +1,8 @@
+ <td style="width: 20%;"><img src="/top_ecossistema.png" width="100%"></td>
 # O que é HACS?
 
 É uma abreviação de “Home Assistant Community Store” ou simplesmente a loja da comunidade do Home Assistant.
-
+<td style="width: 20%;"><img src="/hacs.png" width="100%"></td>
 Sempre que desejamos utilizar projetos em uma interface com componentes customizados. Como um botão, gráficos diferentes, com linhas mais atraentes, ou com barras, cartões personalizados, temas para o HA, etc. Para poder personalizar as telas do  HA como os exemplos citados, é necessário a instalação de componentes customizados.
 
 Antes da existência do HACS, todo componente era instalado manualmente. Agora com o HACS, o usuário utiliza de uma interface gráfica para lidar com downloads de necessidades personalizadas.
